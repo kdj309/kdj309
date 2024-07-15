@@ -9,7 +9,7 @@
 </div>
 
 ## 🚀 About Me
-I'm a **Software Engineer** at [Persistent System](https://www.persistent.com/), specializing in **Frontend Development**. With a rich background in **Backend , Devops**, I've worked across various sectors like E-commerce, Gen-AI etc.
+I'm a **Software Engineer** at [Persistent System](https://www.persistent.com/), specializing in **Frontend Development**. With a rich background in **Backend, DevOps**, I've worked across various sectors like E-commerce, Gen-AI, etc.
 
 ### 🌍 Industries
 - 📡 **E-commerce**
@@ -17,10 +17,10 @@ I'm a **Software Engineer** at [Persistent System](https://www.persistent.com/),
 - 🔍 **IT**
 
 ### 📈 My Expertise
-- **Database Technologies**:SQL:MySQL,Postgres NoSQL:MongoDB.
-- **Cloud Deployments**: Github Actions ,Cloud Run, Microsoft App service.
+- **Database Technologies**:SQL: MySQL, Postgres NoSQL:MongoDB.
+- **Cloud Deployments**: GitHub Actions, Cloud Run, Microsoft App service.
 - **Product Development**: Innovating and improving technology solutions.
-- **AI & GenAI Applications**: Leveraging artificial intelligence and generative AI for enhanced analytics, decision support as well as building conversational agents with RAG (Retrieval Augmented Generation).
+- **AI & GenAI Applications**: Leveraging artificial intelligence and generative AI for enhanced analytics, decision support, and building conversational agents with RAG (Retrieval Augmented Generation).
 
 ### 💻 My Tech Stack
 <p align="center">
@@ -31,7 +31,7 @@ I'm a **Software Engineer** at [Persistent System](https://www.persistent.com/),
     <br>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=idea,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" />
     <br>
     <img src="https://skillicons.dev/icons?i=ai&theme=dark" />
   </a>
@@ -47,7 +47,7 @@ I'm a **Software Engineer** at [Persistent System](https://www.persistent.com/),
 - [Deployment guide of react in major cloud platforms](https://medium.com/stackademic/simplifying-react-application-deployment-across-major-cloud-platforms-9445245773cf)
 
 ## 🌟 Highlights of My Journey
-- 🛠️ Developed integration, features and functionalities to extend product capabilities to answer the customer needs.
+- 🛠️ Developed integration, features, and functionalities to extend product capabilities to answer customer needs.
 - 🚀 Offer professional consulting, deployment, training, and troubleshooting expertise.
 - 🧠 Innovate by building generative AI applications 
 
