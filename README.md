@@ -1,6 +1,6 @@
-<div align="center">
+
   [![Header](profilepic.jfif)](https://github.com/kdj309)
-</div>
+
 
 <div align="center">
 
