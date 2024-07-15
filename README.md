@@ -1,4 +1,4 @@
-[![Header](assets/github-cover.jpg)](https://github.com/kdj309)
+[![Header](profilepic.jfif)](https://github.com/kdj309)
 
 <div align="center">
 
