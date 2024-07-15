@@ -53,7 +53,7 @@ I'm a **Software Engineer** at [Persistent System](https://www.persistent.com/),
 
 ## 🤝 Connect With Me
 - 📧 Email: [karthik.joshi103@gmail.com](mailto:karthik.joshi103@gmail.com)
-- 💻 Portfolio: [https://vercel.com/kdj309s-projects/newportfolio-13gy/7WaXf9GSwTw2U4zCtAu7z9JiFzRD]([https://morgansenechal.com](https://vercel.com/kdj309s-projects/newportfolio-13gy/7WaXf9GSwTw2U4zCtAu7z9JiFzRD)
+- 💻 Portfolio: [My Portfolio]([https://morgansenechal.com](https://vercel.com/kdj309s-projects/newportfolio-13gy/7WaXf9GSwTw2U4zCtAu7z9JiFzRD)
 - 💼 LinkedIn: [Kartik joshi](https://www.linkedin.com/in/kartik-joshi-5885701a2/)
 - 📕 Medium: [@karthik.joshi103](https://medium.com/@karthik.joshi103)
 
