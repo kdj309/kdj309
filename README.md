@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Portfolio](https://skillicons.dev/icons?i=rocket)]([Portfolio](https://vercel.com/kdj309s-projects/newportfolio-13gy/7WaXf9GSwTw2U4zCtAu7z9JiFzRD)) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/kartik-joshi-5885701a2/](https://www.linkedin.com/in/kartik-joshi-5885701a2/)) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:karthik.joshi103@gmail.com?subject=Hello%20Kartik,%20From%20Github)
+[![Portfolio](https://skillicons.dev/icons?i=rocket)](https://vercel.com/kdj309s-projects/newportfolio-13gy/7WaXf9GSwTw2U4zCtAu7z9JiFzRD) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kartik-joshi-5885701a2/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:senechal.morgan@gmail.com?subject=Hello%20Morgan,%20From%20Github)
 
 </div>
 
