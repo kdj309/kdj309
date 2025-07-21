@@ -11,12 +11,13 @@
 </div>
 
 ## 🚀 About Me
-I'm a **Software Engineer** at [Persistent System](https://www.persistent.com/), specializing in **Frontend Development**. With a rich background in **Backend, DevOps**, I've worked across various sectors like E-commerce, Gen-AI, etc.
+I'm a **Senior Experience Engineer** at [Publicis Sapient](https://www.publicissapient.com/), specializing in **Frontend Development**. With a rich background in **Backend, DevOps**, I've worked across various sectors like E-commerce, Gen-AI, etc.
 
 ### 🌍 Industries
 - 📡 **E-commerce**
 - 💰 **Finance**
 - 🔍 **IT**
+- **Retail**
 
 ### 📈 My Expertise
 - **Database Technologies**:SQL: MySQL, Postgres NoSQL:MongoDB.
